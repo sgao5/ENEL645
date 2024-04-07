@@ -1,1 +1,2 @@
-# ENEL645
+# This repository hosts files for the University of Calgary ENEL 645 course's Final Project code and data for Group #9.
+# Both .py and .ipynb files were uploaded. The .ipynb file contains more markup/description that can help interpret the code.  
